@@ -1,16 +1,15 @@
-page 60006 LeaveRequestList
+
+page 60007 LeaveRequestCard
 {
-    PageType = List;
-    ApplicationArea = All;
-    UsageCategory = Lists;
+    PageType = Card;
+
     SourceTable = LeaveRequest;
-    CardPageId = 60007;
 
     layout
     {
         area(Content)
         {
-            repeater(GroupName)
+            group(GroupName)
             {
                 field(RequestID; Rec.RequestID) { }
                 field(EmployeeID; Rec.EmployeeID) { }
@@ -19,10 +18,6 @@ page 60006 LeaveRequestList
                 field(EndDate; Rec.EndDate) { }
                 field(Status; Rec.Status) { }
             }
-        }
-        area(Factboxes)
-        {
-
         }
     }
 
@@ -40,4 +35,7 @@ page 60006 LeaveRequestList
             }
         }
     }
+
+    var
+        myInt: Integer;
 }
