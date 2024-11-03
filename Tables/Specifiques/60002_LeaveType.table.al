@@ -2,6 +2,7 @@
 table 60002 LeaveType
 {
     DataClassification = ToBeClassified;
+    Caption = 'LeaveType';
 
     fields
     {
