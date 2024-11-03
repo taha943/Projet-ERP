@@ -5,6 +5,7 @@ page 60004 EmployeeList
     ApplicationArea = All;
     UsageCategory = Lists;
     SourceTable = Employeur;
+    CardPageId = 60005;
 
     layout
     {

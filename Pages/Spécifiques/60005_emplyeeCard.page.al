@@ -2,8 +2,6 @@
 page 60005 EmployeeCard
 {
     PageType = Card;
-    ApplicationArea = All;
-    UsageCategory = Administration;
     SourceTable = Employeur;
 
     layout
