@@ -8,7 +8,7 @@ table 60001 LeaveRequest
     {
         field(1; RequestID; Code[20]) { DataClassification = ToBeClassified; }
         field(2; EmployeeID; Code[20]) { DataClassification = ToBeClassified; }
-        field(3; LeaveType; Option) { OptionMembers = Vacation,Sick,Other; }
+        field(3; LeaveType; Enum LeaveType) { DataClassification = ToBeClassified; }
         field(4; StartDate; Date) { DataClassification = ToBeClassified; }
         field(5; EndDate; Date) { DataClassification = ToBeClassified; }
         field(6; Status; Enum LeaveStatus) { DataClassification = ToBeClassified; }
