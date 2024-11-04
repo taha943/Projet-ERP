@@ -13,6 +13,7 @@ page 60005 EmployeeCard
                 field(EmployeeID; Rec.EmployeeID) { }
                 field(Name; Rec.Name) { }
                 field(Department; Rec.Department) { }
+                field(LeaveBalance; Rec.LeaveBalance) { }
             }
         }
     }
