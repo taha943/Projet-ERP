@@ -16,7 +16,6 @@ page 60004 EmployeeList
                 field(EmployeeID; Rec.EmployeeID) { }
                 field(Name; Rec.Name) { }
                 field(Department; Rec.Department) { }
-                field(LeaveBalance; Rec.LeaveBalance) { }
             }
         }
         area(Factboxes)
