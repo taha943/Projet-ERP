@@ -1,7 +1,9 @@
-page 60009 LeaveDashboard
+page 60009 "Leave Dashboard"
 {
     PageType = RoleCenter;
-
+    ApplicationArea = All;
+    UsageCategory = ReportsAndAnalysis;
+    Caption = 'Leave Dashboard';
 
     layout
     {
@@ -9,9 +11,23 @@ page 60009 LeaveDashboard
         {
             group(Overview)
             {
-                part(LeaveRequestListPart; LeaveRequestList) { ApplicationArea = All; }
-                part(EmployeeListPart; EmployeeList) { ApplicationArea = All; }
+                part(LeaveRequestListPart; "LeaveRequestList")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Demandes de Congé';
+                }
+
+                part(EmployeeListPart; "Employee List")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Liste des Employés';
+                }
+
+
             }
+
         }
     }
+
+
 }
