@@ -3,6 +3,8 @@ report 60012 "Pending Leave Requests"
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
     Caption = 'Demande en attente';
+    DefaultLayout = RDLC;
+    RDLCLayout = './report/pendingLeaveRequest.rdl';
 
 
     dataset

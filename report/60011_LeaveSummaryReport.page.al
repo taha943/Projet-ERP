@@ -3,6 +3,8 @@ report 60011 "Leave Summary Report"
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
     Caption = 'Résumé des Congés';
+    DefaultLayout = RDLC;
+    RDLCLayout = './report/LeaveSummaryReport.rdl';
 
 
     dataset
