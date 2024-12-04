@@ -1,7 +1,7 @@
 
 enum 60008 LeaveType
 {
-    Caption = 'LeaveStatus';
+    Caption = 'LeaveType';
     Extensible = true;
     value(0; Vacation) { Caption = 'Vacation'; }
     value(1; Sick) { Caption = 'Sick'; }

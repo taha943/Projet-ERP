@@ -2,6 +2,8 @@ page 60005 EmployeeCard
 {
     PageType = Card;
     SourceTable = Employee;
+    Caption = 'EmployeeCard';
+
 
     layout
     {

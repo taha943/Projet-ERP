@@ -5,6 +5,8 @@ page 60006 LeaveRequestList
     UsageCategory = Lists;
     SourceTable = LeaveRequest;
     CardPageId = 60007;
+    Caption = 'LeaveRequestList';
+
 
     layout
     {

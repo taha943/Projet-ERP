@@ -2,6 +2,7 @@
 page 60007 LeaveRequestCard
 {
     PageType = Card;
+    Caption = 'LeaveRequestCard';
 
     SourceTable = LeaveRequest;
 

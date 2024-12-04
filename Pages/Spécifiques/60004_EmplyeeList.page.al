@@ -1,5 +1,6 @@
 pageextension 60004 EmployeeListExtension extends "Employee List"
 {
+    Caption = 'Employee ext List';
 
     layout
     {
