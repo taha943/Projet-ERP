@@ -1,40 +1,40 @@
-
-page 60004 EmployeeList
+pageextension 60004 EmployeeListExtension extends "Employee List"
 {
-    PageType = List;
-    ApplicationArea = All;
-    UsageCategory = Lists;
-    SourceTable = Employeur;
-    CardPageId = 60005;
 
     layout
     {
-        area(Content)
+        addlast(Content)
         {
-            repeater(GroupName)
+            group(CustomFields)
             {
-                field(EmployeeID; Rec.EmployeeID) { }
-                field(Name; Rec.Name) { }
-                field(Department; Rec.Department) { }
-                field(LeaveBalance; Rec.LeaveBalance) { }
-            }
-        }
-        area(Factboxes)
-        {
+                Caption = 'Custom Fields';
 
+                field(Department; rec.Department)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Department';
+                }
+                field(LeaveBalance; rec.LeaveBalance)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Leave Balance';
+                }
+            }
         }
     }
 
     actions
     {
-        area(Processing)
+        addlast(Processing)
         {
-            action(ActionName)
+            action("Calculate Leave Balance")
             {
+                ApplicationArea = All;
+                Caption = 'Calculate Leave Balance';
 
                 trigger OnAction()
                 begin
-
+                    Message('Leave Balance Calculation Logic Goes Here');
                 end;
             }
         }

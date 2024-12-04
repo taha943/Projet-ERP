@@ -1,19 +1,31 @@
-
 page 60005 EmployeeCard
 {
     PageType = Card;
-    SourceTable = Employeur;
+    SourceTable = Employee;
 
     layout
     {
         area(Content)
         {
-            group(GroupName)
+            group(General)
             {
-                field(EmployeeID; Rec.EmployeeID) { }
-                field(Name; Rec.Name) { }
-                field(Department; Rec.Department) { }
-                field(LeaveBalance; Rec.LeaveBalance) { }
+                Caption = 'General Information';
+                field(EmployeeID; Rec."First Name")
+                {
+                    ApplicationArea = All;
+                }
+                field(Name; Rec."Last Name")
+                {
+                    ApplicationArea = All;
+                }
+                field(Department; Rec.Department)
+                {
+                    ApplicationArea = All;
+                }
+                field(LeaveBalance; Rec.LeaveBalance)
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }
@@ -22,17 +34,15 @@ page 60005 EmployeeCard
     {
         area(Processing)
         {
-            action(ActionName)
+            action("Custom Action")
             {
+                Caption = 'Custom Action';
 
                 trigger OnAction()
                 begin
-
+                    Message('Custom action executed!');
                 end;
             }
         }
     }
-
-    var
-        myInt: Integer;
 }
