@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="gestionDesCongés">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 30615711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Département</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Département - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 30615711 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Département - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 30615711 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Département - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 30615711 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Département - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 30615711 - Field 1472533348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status department</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Département - Field StatusDepartment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4165052020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employeur</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employeur - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4165052020 - Field 1651921640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employeur - Field Department - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4165052020 - Field 1092980129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EmployeeID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employeur - Field EmployeeID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4165052020 - Field 2541582631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LeaveBalance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employeur - Field LeaveBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4165052020 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employeur - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1388579430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LeaveRequest</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1388579430 - Field 1092980129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EmployeeID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveRequest - Field EmployeeID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1388579430 - Field 845401037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EndDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveRequest - Field EndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1388579430 - Field 4152543229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LeaveType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveRequest - Field LeaveType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1388579430 - Field 2989723744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RequestID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveRequest - Field RequestID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1388579430 - Field 3605153064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StartDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveRequest - Field StartDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1388579430 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveRequest - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4152543229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LeaveType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4152543229 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveType - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4152543229 - Field 182320322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LeaveTypeID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LeaveType - Field LeaveTypeID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2112275570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EmployeeCard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2112275570 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeCard - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2112275570 - Action 3015266967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custom Action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeeCard - Action Custom Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 622438017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Leave Dashboard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Leave Dashboard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 622438017 - Control 1919122825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liste des Employés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Leave Dashboard - Control EmployeeListPart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 622438017 - Control 4226867745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demandes de Congé</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Leave Dashboard - Control LeaveRequestListPart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2549097418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LeaveRequestCard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LeaveRequestCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1955196716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LeaveRequestList</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LeaveRequestList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2883806755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Résumé des Congés</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Leave Summary Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1760794594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Demande en attente</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pending Leave Requests - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1372525715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
+          <source>Employee ext List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EmployeeListExtension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1372525715 - Action 1032241179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
+          <source>Calculate Leave Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EmployeeListExtension - Action Calculate Leave Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1372525715 - Control 1188921462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
+          <source>Custom Fields</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EmployeeListExtension - Control CustomFields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1372525715 - Control 1651921640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EmployeeListExtension - Control Department - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1372525715 - Control 2541582631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 272934828">
+          <source>Leave Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EmployeeListExtension - Control LeaveBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3044542669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Employee Extension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExtension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3044542669 - Field 1651921640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExtension - Field Department - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3044542669 - Field 2541582631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1498446062">
+          <source>Leave Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeExtension - Field LeaveBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1797345001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LeaveStatus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum LeaveStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1797345001 - EnumValue 2913119229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum LeaveStatus - EnumValue Approved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1797345001 - EnumValue 3481143665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum LeaveStatus - EnumValue Pending - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1797345001 - EnumValue 496445946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rejected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum LeaveStatus - EnumValue Rejected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4152543229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LeaveType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum LeaveType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4152543229 - EnumValue 3448339824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum LeaveType - EnumValue Other - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4152543229 - EnumValue 2036318854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sick</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum LeaveType - EnumValue Sick - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4152543229 - EnumValue 3824106707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vacation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum LeaveType - EnumValue Vacation - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
