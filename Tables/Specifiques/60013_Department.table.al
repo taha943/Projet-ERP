@@ -22,6 +22,14 @@ table 60013 Département
             DataClassification = ToBeClassified;
             Caption = 'Status';
         }
+        field(7; "StatusDepartment"; Text[100])
+        {
+            Caption = 'Status department';
+            FieldClass = FlowField;
+            CalcFormula = lookup(Département.StatusDepartment WHERE(ID = field("ID")));
+            Editable = false;
+        }
+
 
     }
 
