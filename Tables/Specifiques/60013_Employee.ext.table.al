@@ -8,10 +8,10 @@ tableextension 60013 EmployeeExtension extends Employee
         {
             Caption = 'Department';
             DataClassification = ToBeClassified;
+            TableRelation = Département.ID;
 
             trigger OnValidate()
             begin
-                // Add validation logic here if needed
                 Message('Department field validated');
             end;
         }
